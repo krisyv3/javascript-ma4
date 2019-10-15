@@ -1,0 +1,15 @@
+ul {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+    font-size: 1em;
+    max-width: 85%;
+    min-height: 30px;
+    background-color: greenyellow;
+}
+
+ul#list {
+    border:none;
+    background-color: #fff;
+}
